@@ -1,0 +1,9 @@
+sentinelhub
+pandas
+numpy
+seaborn
+matplotlib
+scipy
+scikit-learn
+flask
+-e .
